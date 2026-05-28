@@ -1,0 +1,32 @@
+aid: wallhaven
+name: Wallhaven
+description: "Wallpapers"
+url: https://wallhaven.cc/help/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Wallhaven
+    description: "Wallpapers"
+    humanURL: https://wallhaven.cc/help/api
+    baseURL: https://wallhaven.cc/help/api
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://wallhaven.cc/help/api
+common:
+  - type: Website
+    url: https://wallhaven.cc/help/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
