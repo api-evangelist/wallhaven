@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://wallhaven.cc/help/api
 common:
+  - type: DomainSecurity
+    url: security/wallhaven-domain-security.yml
   - type: Website
     url: https://wallhaven.cc/help/api
   - type: PublicAPIsListing
