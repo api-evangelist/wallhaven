@@ -39,7 +39,6 @@ apis:
   - name: Wallhaven
     description: "Wallpapers"
     humanURL: https://wallhaven.cc/help/api
-    baseURL: https://wallhaven.cc/help/api
     tags:
       - Photography
     properties:
